@@ -7,7 +7,12 @@
 main > .container {
     padding: 60px 15px 0;
   }
-  
+ 
+  .header2{
+    color:#4aaaa5;
+    font-size: 25px;
+  }
+
   .footer {
     background-color: darkgray;
   }
@@ -16,7 +21,9 @@ main > .container {
     padding-right: 15px;
     padding-left: 15px;
   }
-  
+  .border-3{
+    border-width: 8px !important;
+  }
   code {
     font-size: 80%;
   }
