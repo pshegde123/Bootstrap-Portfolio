@@ -4,6 +4,9 @@
 .my-background{
     background-image: url('../images/memphis-mini.png');
 }
+.mail-background{
+    background-image: url('../images/email-pattern.png');
+}
 main > .container {
     padding: 60px 15px 0;
   }
