@@ -10,10 +10,15 @@
 main > .container {
     padding: 60px 15px 0;
   }
-
+.wrapper{
+  width: 70%;
+  height: 70%;
+  margin: auto;
+}
 .nametag{
       font-family: Georgia, 'Times New Roman', Times, serif;
       background-color: #4aaaa5;
+      margin-left: 15%;
 }
   .header2{
     color:#4aaaa5;
@@ -21,16 +26,18 @@ main > .container {
 
   .profile{
     float: left;
-    margin: 20px;
+    margin: 2%;
 }
 p{
     /*font-family: Arial, Helvetica, sans-serif;*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 18px;
-    text-overflow: clip;
+    text-overflow: ellipsis;
+    margin-right: 1%;
 }
 #navbarSupportedContent{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 15%;
 }
 a:link{
     color: #777777;
