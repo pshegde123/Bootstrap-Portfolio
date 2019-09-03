@@ -75,6 +75,7 @@ a:active {
 */
 @media screen and (max-width:980px){
   .row{
+    color:red;
     margin-top:1%;
     margin-left:10%;
     height: 90%;
@@ -98,8 +99,9 @@ a:active {
 */
 @media screen and (max-width:768px){
 .row{
+  color:blue;
   margin-top:1%;
-  margin-left:10%;
+  margin-left:15%;
   height: 90%;
 }
 p{
@@ -126,6 +128,7 @@ input,textarea{
       width: 100%;
   }
   .row{
+    color:purple;
     margin-top:1%;
     margin-left:10%;
     height: 90%;
@@ -135,9 +138,9 @@ input,textarea{
     overflow: hidden;
   }
   .overflow-ellipsis{
-    text-overflow: clip;
+    text-overflow: 
   }
   input,textarea{
-    width:60%;
+    width:50%;
   }
  }   
