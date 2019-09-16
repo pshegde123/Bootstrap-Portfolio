@@ -54,7 +54,12 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
-
+.card-body{
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-top: 2%;
+  padding-bottom: 0%;
+}
   .footer {
     text-align: center;
     border-color: #4aaaa5 !important;
